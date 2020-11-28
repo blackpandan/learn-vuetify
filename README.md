@@ -1,4 +1,6 @@
-# todo-app
+# Vuetify PlayGround
+
+- this is my personal playground for testing out vuetify for vue
 
 ## Project setup
 ```
